@@ -28,5 +28,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=deepashricharpe2001&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=deepashricharpe2001&icon=0&color=0)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=Deepashricharpe&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
